@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Las mejores Series"
 Disfruta
+#EXTINF:-1, tvg-logo="https://i.ibb.co/qpF78GW/81.jpg",Lugares Muertos
+https://dl.dropbox.com/s/bfzyejppezmf0ww/Lugares%20Muertos.m3u
 #EXTINF:-1, tvg-logo="https://artworks.thetvdb.com/banners/series/367012/backgrounds/60415f31c367a_t.jpg",Kamp Koral
 https://dl.dropbox.com/s/swugz6sugwh0dpm/Esponja.m3u
 #EXTINF:-1, tvg-logo="https://artworks.thetvdb.com/banners/series/356202/backgrounds/6035368ae4176_t.jpg",Para toda la Humanidad
