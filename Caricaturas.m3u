@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="DISFRUTA DE LAS MEJORES CARICATURAS",
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hWvr5r8/80.jpg",Los Simpsons
+https://dl.dropbox.com/s/kqac71exczhoem3/Los%20Simpsons.m3u
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/73711-2_t.jpg",Mortal Kombat Defensores de la Tierra
 https://dl.dropbox.com/s/kkyaz2i55vg48ma/Mortal%20kombat%20defensores.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/1_20210317_20210317_1704/portada%20rug.png",Rugrats
