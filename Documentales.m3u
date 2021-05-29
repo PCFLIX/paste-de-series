@@ -1,5 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Documentales", Documentales.
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgpKSs0/baggio.jpg",Roberto Baggio El Divino
+https://archive.org/download/tinaco_20210527/Baggio.the.divine.Ponytail.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47H1yKK/david.jpg",David Copeland El Hombre que Aterrorizo Londres
+https://archive.org/download/tinaco_20210527/Nail.Bomber.Manhunt.mkv
+
 #EXTINF:-1 tvg-logo="https://img1.beachbodyimages.com/teambeachbody/image/upload/Teambeachbody/shared_assets/Shop/Fitness/Insanity/Program/Insanity-fitness-cdp-logo-640x800-us-english-062016.png", Insanity Body Workout
 https://dl.dropbox.com/s/zj4eg3rdolmk1xi/Insanity%20Body%20Workout.m3u
 
