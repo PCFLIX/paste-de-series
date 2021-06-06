@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="DISFRUTA DE LAS MEJORES CARICATURAS",
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V3m7pFX/dartacan-Copiar.jpg", DArtacan y los tres mosqueperros SD
+https://dl.dropbox.com/s/1qcraqk7xjcac98/DArtacan%20y%20los%20tres%20mosqueperros%20SD.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hWvr5r8/80.jpg",Los Simpsons
 https://dl.dropbox.com/s/kqac71exczhoem3/Los%20Simpsons.m3u
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/73711-2_t.jpg",Mortal Kombat Defensores de la Tierra
