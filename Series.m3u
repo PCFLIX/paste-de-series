@@ -1,245 +1,455 @@
 #EXTM3U
 #EXTINF:-1 group-title="Las mejores Series"
 Disfruta
-#EXTINF:-1, tvg-logo="https://i.ibb.co/qpF78GW/81.jpg",Lugares Muertos
-https://dl.dropbox.com/s/bfzyejppezmf0ww/Lugares%20Muertos.m3u
-#EXTINF:-1, tvg-logo="https://artworks.thetvdb.com/banners/series/367012/backgrounds/60415f31c367a_t.jpg",Kamp Koral
-https://dl.dropbox.com/s/swugz6sugwh0dpm/Esponja.m3u
-#EXTINF:-1, tvg-logo="https://artworks.thetvdb.com/banners/series/356202/backgrounds/6035368ae4176_t.jpg",Para toda la Humanidad
-https://dl.dropbox.com/s/gyyf8htjpxa75v8/para%20toda%20la%20humanidad.m3u
-#EXTINF:1, tvg-logo="https://archive.org/download/01_20210320_20210320/sombra%20por.png",Marvel Legends
-https://dl.dropbox.com/s/xuq3m3ltqgkgf1u/MARVLEGEN.m3u
-#EXTINF:1, tvg-logo="https://archive.org/download/portada-alado/portada%20alado.png",Falcon y el soldado del invierno
-https://dl.dropbox.com/s/21v90e7wk3vdz1i/f4lconysol.m3u
-#EXTINF:1, tvg-logo="https://fanart.tv/fanart/tv/75760/tvthumb/H_75760%20(3).jpg", How I Meet Your Mother 
-https://dl.dropbox.com/s/7hjsofpuaecx883/HYMYMarchive.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/razhorzm3jioawt/sangre%20de%20zeus.jfif",SANGRE DE ZEUS
-https://dl.dropbox.com/s/xmruy2nccvpwcob/sangre%20de%20zeus.m3u
-#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/5e/1122910.png",Brickleberry
-https://dl.dropbox.com/s/zqtw873z3szieem/Brickleberry.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76461/tvthumb/D_76461%20(0).jpg",Dinosaurios
-https://dl.dropbox.com/s/2999a2yo3wsdczq/dinosauriosespa.m3u
-#EXTINF:-1 tvg-logo="https://archive.org/download/07_20210312/0000000PPP.png",Seinfeld
-https://dl.dropbox.com/s/n7346a4pos9u2ng/s3infeld.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fmZxxF/mini-dangerous-animal-12-allshows.png",THE ZODIAC THE MOST DANGEROUS ANIMALS
-https://dl.dropbox.com/s/fy72yx47wrsgk6o/THE%20ZODIAC%20THE%20MOST%20DANGEROUS%20ANIMALS.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X7SJLbL/mini-51-Io-DUTv-We-L-AC.jpg",Ted Bundi (enamorado de un asesino)
-https://dl.dropbox.com/s/c0w37qa6ii80upl/TED%20BUNDI%20ENAMORADA%20DE%20UN%20ASESINO.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k5K7Vgw/mini-7-2.jpg",Band Of Brother
-https://dl.dropbox.com/s/8xf0s7mtf7sgzbh/Band%20Of%20Brother.m3u
-#EXTINF:-1 tvg-logo="https://archive.org/download/portada-final-xena/portada%20%20final%20xena.png",Xena Princesa Guerrera
-https://dl.dropbox.com/s/9fxggv8y2hbpynb/xen4.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/367012/backgrounds/60415f31c367a_t.jpg",camp coral Los Primeros Años de Bob Esponja (2021)
-https://dl.dropbox.com/s/swugz6sugwh0dpm/Esponja.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/78020/seasonthumb/alf-4f7839b9017d6.jpg",ALF (1986)
-http://archive.org/download/listasaqui_ymail4_Alf/alf.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/329586-6_t.jpg",Alias Grace Temporada 1 (2017)
-https://dl.dropbox.com/s/0ie7eqp5okwepvg/Alias%20Grace.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/332331/tvthumb/altered-carbon-5a77686872ab5.jpg",Altered Carbon (2018)
-https://dl.dropbox.com/s/u31pyqvoppaxpq4/Altered%20Carbon.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/73141/tvthumb/A_73141%20(0).jpg",American Dad (2005)
-http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500_and_h282_face/vLnYnApolGhlLsH7zmIOcI70tHu.jpg",Battlestar Galactica (2004)
-https://dl.dropbox.com/s/l7x16esg7e4ur5u/Battlestar.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/381809/backgrounds/5ed285cf998b4.jpg",Betaal (2020)
-https://dl.dropbox.com/s/du4hsonwevyxuuo/Betaal.m3u
-#EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/07/28/15959608671580.jpg",Campamento Cretacico
-https://dl.dropbox.com/s/e0hxipzp0w94h3y/CAMPAMENTO%20CRETASICO.m3u
-#EXTINF:-1 tvg-id="1" tvg-name="Peliculas" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/10_casocerrado_1920x10802015_0.jpg",Caso Cerrado (2001)
-https://dl.dropbox.com/s/gk0mauagljmw5hk/caso%20cerradp.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/360893/tvthumb/chernobyl-5cd808daa135f.jpg",Chernobyl (2019)
-https://archive.org/download/antena_20200111/C3RNOVYL.m3u
-#EXTINF:-1 tvg-logo="https://ftpmirror.your.org/pub/wikimedia/images/wikipedia/he/archive/7/7c/20081206204210!Avood.JPG",Ciencia Traviesa (2004)
-https://dl.dropbox.com/s/t3y7g4ws3qdvulj/CIENCIATRAVIESA.M3U
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/299045/tvthumb/club-de-cuervos-55c519c03774d.jpg",Club de Cuervos (2015)
-http://archive.org/download/kuhlman_1/Series/series/club de cuervos.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0QW3Nf/cobrakai.jpg",Cobra Kai (2018)
-https://dl.dropbox.com/s/u6fqjaas3ndaqql/COBRA%20KAI.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/332858/backgrounds/5f4b49eed5cec.jpg",Cobra Kai (Audio en Inglés) 2018
-https://dl.dropbox.com/s/9kw1c6x0v7ag3fx/CK.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/380850/backgrounds/5ecb074cb9953.jpg",Ctrl Z (2020)
-https://dl.dropbox.com/s/7eymdem6l6v63xh/CtrlZ.m3u
-#EXTINF:-1 tvg-logo="https://dg31sz3gwrwan.cloudfront.net/fanart/273283/1012849-0-q80.jpg",Cumbia Ninja (2013)
-http://archive.org/download/kuhlman_1/Series/series/Cumbia Ninja.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/361739/backgrounds/5ecaadebcde54.jpg",Curon (2020)
-https://dl.dropbox.com/s/dk6ozg0aqwm3hlo/Curon.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/369950/backgrounds/5f12e6a3a5174.jpg",Cursed (2020)
-https://dl.dropbox.com/s/twlwefp5jw5e6n2/Maldita.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2s0pKpJ/Image73.jpg",30 Monedas
+https://dl.dropbox.com/s/7sz3l1n276gbdk9/30%20MONEDAS.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Y6Fmjf/Image74.jpg",A Teacher
+https://dl.dropbox.com/s/t76st1j8ayjp5ft/A%20Teacher%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTy5QNJ/acashor.jpg",Acapulco Shore
+https://dl.dropbox.com/s/csxq9p7o3nh9tnv/Acashore.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykwRKx8/Image75.jpg",ADI
+https://dl.dropbox.com/s/32zgfd67wg17vl5/AD1.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dtc5YsX/Image77.jpg",Alex Rider
+https://dl.dropbox.com/s/bx1z6sj2kvzye2r/Alex%20Rider%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/78020/seasonthumb/alf-4f7839b9017d6.jpg",ALF
+https://dl.dropbox.com/s/dd2a0dt3w8lcf64/alf.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ydBB3Z/ghost.jpg",Almas Perdidas (2005)
+https://raw.githubusercontent.com/a13xr0j45/Series/main/Almas%20Perdidas.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/332331/tvthumb/altered-carbon-5a77686872ab5.jpg",Altered Carbon
+https://dl.dropbox.com/s/1hxjlo4rchqa25w/Altered%20Carbon.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WfBy54/port.jpg",American Crime Story (2016)
+https://dl.dropbox.com/s/vxn3sd0xiu61qek/American%20Crime%20Story.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WxwL102/Image65.jpg",American Gods
+https://dl.dropbox.com/s/0n3z6pqyqaz69c2/AmericanGods.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7zS3W2t/Image76.jpg",American Horror Story (2011)
+https://dl.dropbox.com/s/ta7mkvtoapl79ru/AHS.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fyVJLQ/Image78.jpg",Anne with an E
+https://dl.dropbox.com/s/vartnq73wizykpe/Anne00.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNzxrFY/THE-WONDER-YEARS-Season-Four-9-19-90-Pictured-from-left-Jason-Hervey-Wayne-Olivia-d-Abo-Karen-Fred-S.jpg",Anos Maravillosos
+https://dl.dropbox.com/s/l14xbqo867a2tw9/anosmaravillosos.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNzxrFY/THE-WONDER-YEARS-Season-Four-9-19-90-Pictured-from-left-Jason-Hervey-Wayne-Olivia-d-Abo-Karen-Fred-S.jpg",Anos Maravillosos
+https://dl.dropbox.com/s/cjnx3bdknm1z93f/anosmaravillosos.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbsZKzx/Image79.jpg",Antidisturbios
+https://dl.dropbox.com/s/mkrhz1juj0b93wm/Antidisturbios%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cCxkBsp/apreavivir.jpg",Aprendiendo a Vivir (1993)
+https://dl.dropbox.com/s/6yszx50cugr7l0l/Aprendiendo%20a%20Vivir.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/77960/tvthumb/A_77960.jpg",Are you Afraid of the Dark?
+https://dl.dropbox.com/s/2uuesr2sk5egpas/ARE%20YOU%20AFRAID%20OF%20THE%20DARK.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnVrCmT/Image80.jpg",Asesinato en Middle Beach
+https://dl.dropbox.com/s/l6cpio1vq59nggf/Asesinato%20En%20Middle%20Beach%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37MgnLY/Image82.jpg",Battlestar Galactica
+https://dl.dropbox.com/s/it7s4c1dz1d340f/Battlestar.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDFbVYg/Image83.jpg",Batwoman
+https://dl.dropbox.com/s/chvlqg02uebzeq4/batwoman01.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/381809/backgrounds/5ed285cf998b4.jpg",Beetal
+https://dl.dropbox.com/s/ghk5lwrva9akgiz/Betaal.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFZgvKQ/Image85.jpg",Bir Baskadir
+https://dl.dropbox.com/s/m2u818qwvb810gx/Bir%20Baskadir%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFD15Mm/Image81.jpg",Black Mirror
+https://dl.dropbox.com/s/1218dnncd5bk590/B.Mirror00.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XYPnSS0/PORTADA.jpg",Breaking Bad (2008)
+https://dl.dropbox.com/s/pg9riqkfzobn4qm/Breaking%20Bad.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7QT8ztJ/Jurassic-World-Camp-Cretaceous-2019.jpg",Campamento Cretacico
+https://raw.githubusercontent.com/a13xr0j45/Series/main/CAMPAMENTO%20CRETASICO.m3u
+
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/10_casocerrado_1920x10802015_0.jpg",Caso Cerrado
+https://dl.dropbox.com/s/e6aupb5twhcy9xm/caso%20cerradp.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MQ3h4t/Image88.jpg",Castle Rock
+https://dl.dropbox.com/s/fmveo5pmfp4q1f1/Castle%20Rock%20%282020%29%20%28latino%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv3zKC2/Image87.jpg",Chernobyl
+https://dl.dropbox.com/s/ijfqqbqzhzskn46/C3RNOVYL.m3u
+
+#EXTINF:-1 tvg-logo="https://ftpmirror.your.org/pub/wikimedia/images/wikipedia/he/archive/7/7c/20081206204210!Avood.JPG",Ciencia Traviesa
+https://dl.dropbox.com/s/z22x6vmagqm8cz3/CIENCIATRAVIESA.M3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDry6GF/Image90.jpg",Club de Cuervos
+https://dl.dropbox.com/s/seoysonary2u2uj/club%20de%20cuervos.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0QW3Nf/cobrakai.jpg",Cobra Kai
+https://dl.dropbox.com/s/o4xlvpon038fcoy/COBRA%20KAI.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0QW3Nf/cobrakai.jpg",Cobra Kai
+https://dl.dropbox.com/s/7rrm06o3jjb4434/CK.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/380850/backgrounds/5ecb074cb9953.jpg",Control Z
+https://dl.dropbox.com/s/k3umx97re86gjtt/CtrlZ.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/260586/tvthumb/cosmos-a-spacetime-odyssey-5a3327b539ecd.jpg",Cosmos
+https://dl.dropbox.com/s/ypzi092v14c3kbw/COSMOS.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRsDgss/Image66.jpg",Creep Show
+https://dl.dropbox.com/s/ol72bx6j8e0zrk2/Creepshow.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRsDgss/Image66.jpg",Creep Show
+https://dl.dropbox.com/s/hvev6sae1li62fn/Creepshow.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQBXyDB/Tales-From-the-Crypt-The-Crypt-Keeper-voice-of-John-Kassir-Tales-From-the-Crypt-Image-Source-Warner.jpg",Cuentos de la Cripta
+https://dl.dropbox.com/s/ihnrjnyv79vqrwp/cuentosdlacriptatemporadas.m3u
+
+#EXTINF:-1 tvg-logo="https://dg31sz3gwrwan.cloudfront.net/fanart/273283/1012849-0-q80.jpg",Cumbia Ninja
+https://dl.dropbox.com/s/b1nkw00s8qs174b/Cumbia%20Ninja.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/361739/backgrounds/5ecaadebcde54.jpg",Curon
+https://dl.dropbox.com/s/n3ygwmd7xhzbnri/Curon.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/281662/tvthumb/daredevil-5896b6e23c763.jpg",Daredevil
+https://dl.dropbox.com/s/15k957clorim1pg/Daredevil.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zQPVdRW/Image92.jpg",Dark
+https://dl.dropbox.com/s/0xfszeczmzb1qae/DARK.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8N0qZ87/Image93.jpg",Dash y Lily
+https://dl.dropbox.com/s/8ufgf3s9jkyav5m/Dash%20y%20Lily%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/391467/panels/5fa6bfb856d51.jpg",De brutas nada
+https://dl.dropbox.com/s/fxlurydx25ytpgp/De%20Brutas%20Nada%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtpnfMW/Image94.jpg",De viaje con los Derbez
+https://dl.dropbox.com/s/akqyr3gj1t0cmj8/De%20Viaje%20Con%20Los%20Derbez.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyHvjwP/Image95.jpg",Devils
+https://dl.dropbox.com/s/2hcikeo6hgdc19s/Devils.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76461/tvthumb/D_76461%20(0).jpg",Dinosaurios (esp)
+https://dl.dropbox.com/s/4g69cfab6odn5yj/dinosauriosespa.m3u
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLkS5Sk/96.jpg",Dr.House (2004)
 https://dl.dropbox.com/s/ma9e16jgs3dsda0/Dr%20House.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/281662/tvthumb/daredevil-5896b6e23c763.jpg",Daredevil (2015)
-http://archive.org/download/mio72_yopmail_TC/Daredevil.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQns2ff/Image38.jpg",The Punisher (2017)
-https://dl.dropbox.com/s/g9a24fzvnbx0sho/The%20Punisher.m3u
-#EXTINF:-1 tvg-logo="https://reskk-my.sharepoint.com/:i:/g/personal/ps3uuno_f_odpan_cn/EfBRNUNuWSdJvJQbJHtXqSEBgvSfIQogcz_KYdrO4Xbfrg?download=1",De Brutas Nada (2020)
-https://dl.dropbox.com/s/6gj8cus7x0p3n1r/De%20Brutas%20Nada%20%282020%29.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/391467/panels/5fa6bfb856d51.jpg",De Brutas Nada (2021)
-https://dl.dropbox.com/s/wof2dn26o190jmm/De%20Brutas%20Nada.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/79357/tvthumb/drake-and-josh-4ff45b1f19430.jpg",Drake & Josh (2004)
-https://dl.dropbox.com/s/1imv26vl3rixne3/Drake%20%26%20Josh.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/328634/tvthumb/the-good-doctor-59feaefc90a21.jpg",El Buen Doctor (2013)
-http://archive.org/download/kuhlman_1/Series/series/El%20buen%20doctor.m3u
-#EXTINF:-1 tvg-id="1" tvg-name="Peliculas" tvg-logo="https://fanart.tv/fanart/tv/82516/clearart/E_82516.png",El Chavo Del 8 (1971)
-https://dl.dropbox.com/s/dh74bwwbjn9rfv4/chavo.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/378140/backgrounds/60300c4763971_t.jpg",El Internado Las Cumbres Temporada 1 (2021)
-https://dl.dropbox.com/s/s9toioedmouu7r1/The%20Boarding%20School%20Las%20Cumbres.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/338947/tvthumb/the-chilling-adventures-of-sabrina-5be080c32bfa3.jpg",El Mundo Oculto de Sabrina (2018)
-http://archive.org/download/kuhlman_1/Series/series/El mundo oculto de sabrina.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/338947/tvthumb/the-chilling-adventures-of-sabrina-5bd734757dcea.jpg",El Mundo Oculto de Sabrina (Opc 2)
-http://archive.org/download/kuhlman_1/Series/series/El%20mundo%20oculto%20de%20sabrina%20opc%202.m3u
-#EXTINF:-1 tvg-logo="https://archive.org/download/narrador-poster/narrador%20poster.png",El Narrador de Cuentos (1988)
-https://dl.dropbox.com/s/b0z04s8w2ya7ol1/3LNARRADORD3CUENTOS.M3U
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/pipipi_202106/PIPIPI.png",El Chavo (2021)
+https://dl.dropbox.com/s/qu04oz96vzrohgf/elch4vooo.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/82516/clearart/E_82516.png",El Chavo del 8
+https://dl.dropbox.com/s/vuoqb018gnygw20/chavo.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjqdy0C/ELINOCENT.jpg",El Inocente (2021)
+https://dl.dropbox.com/s/fhwt5r4eznc7mc6/EL%20INOCENTE.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Km10jKs/el-internado.jpg",El Internado Laguna Negra (2007)
+https://raw.githubusercontent.com/GODN9/AQUI-PUEDEN-SUS-LISTAS/main/El%20Internado%20Laguna%20Negra.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKBQMqk/Beakman.jpg",El mundo de Beakman (1992)
+https://dl.dropbox.com/s/9p38p57mm4ztd2i/Beakmans%20World.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/narrador-poster/narrador%20poster.png",El Narrador de Cuentos
+https://dl.dropbox.com/s/qjknsourhmviz5p/3LNARRADORD3CUENTOS.M3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH4BhWy/Image60.jpg",El Principe del Rap
+https://dl.dropbox.com/s/g6zkqozqczyki1y/3LPRINCIP3D3LR4P.M3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH4BhWy/Image60.jpg",El Principe del Rap
+https://dl.dropbox.com/s/nu5ybaoyam0y6hs/principe%20del%20rap%20temp%204%20-%206.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q90N1TX/Image96.jpg",Escalofrios
+https://archive.org/download/playlistescalofios/playlistescalofios.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q90N1TX/Image96.jpg",Escalofrios
+https://dl.dropbox.com/s/yfodq3bfg54w561/playlistescalofios.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tBBd7nF/ESPDESESP.jpg",Esposas Desesperadas (2004)
+https://raw.githubusercontent.com/a13xr0j45/Series/main/Esposas%20Desesperadas.m3u
+
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/cdn.spoilertv.com/images/headers/euphoria.jpg",Euphoria (2019)
-https://dl.dropbox.com/s/r0cajfh3agfzdkm/EUPHORIA.M3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBND6Bj/FTWD.jpg",Fear The Walking Dead
-https://dl.dropbox.com/s/5w158i52zbddat7/FearTheWalkingDead.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/274431/tvthumb/gotham-58973cf735951.jpg",Gotham (2014)
-https://dl.dropbox.com/s/p3hmynslnbgsk8n/Gotham%201.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1rS4zxk/73762-44.jpg",Grey's Anatomy (2005)
-https://dl.dropbox.com/s/a5nobqgfhgl8yxu/GreysAnatomy.m3u
-#EXTINF:-1 tvg-logo="https://reskk-my.sharepoint.com/:i:/g/personal/ps3uuno_f_odpan_cn/EXHPjSOcS91EhL7wLPpveqIBBeSQoCxHk99SPpcVDmYSEg?download=1",Hannibal (2013)
-https://dl.dropbox.com/s/hp7qhdpjg96vzrm/Hannibal%20%282013%29.M3U
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/80534/tvthumb/happy-tree-friends-545d97f6c21ff.jpg",Happy Tree Friends (1999)
-https://dl.dropbox.com/s/00wrjvzvczz8hqs/Happy-tree-friends-SAGA.m3u
-#EXTINF:-1 tvg-logo="https://reskk-my.sharepoint.com/:i:/g/personal/ps3uuno_f_odpan_cn/ERBFdqnG6wRBrdLaELhoE_0BmJPyErhtLVA66sICOENXkg?download=1",High Fidelity (2020)
-https://dl.dropbox.com/s/asvfdq0eoz3uxbs/High%20Fidelity%20%282000%29.M3U
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/79535/tvthumb/a-haunting-58a8dcb141286.jpg",Historias de Ultratumba (2005)
-https://archive.org/download/cuentosdlacriptatemporadas_20200131/cuentosdlacriptatemporadas.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/372081/tvthumb/hunters-5e583d9160eeb.jpg",Hunters (2020)
-https://dl.dropbox.com/s/6587dh81kb8twnm/hunters.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348117/tvthumb/insatiable-5c65651f27fda.jpg",Insaciable (2018)
-https://dl.dropbox.com/s/s2parwg3nusfmla/insatiable.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/281470/tvthumb/izombie-5493bf07f2dec.jpg",iZombie (2015) 
-https://archive.org/download/izombie_202006/izombie.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/378477/backgrounds/5ebc5d639fb14.jpg",Jeffrey Epstein: Asquerosamente Rico (2020)
-https://dl.dropbox.com/s/7h6e4vcgqtesj1o/JeffreyEpstein.m3u
+https://raw.githubusercontent.com/a13xr0j45/Series/main/EUPHORIA.M3U
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada-alado/portada%20alado.png",Falcon and The Winter soldier
+https://raw.githubusercontent.com/a13xr0j45/Series/main/FALCON%20AND%20WINTER%20SOLDIER.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/356202/backgrounds/6035368ae4176_t.jpg",For All Mankind
+https://dl.dropbox.com/s/z6dfnwqabi29l85/ForAllMankind.M3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXNfW4p/glee.jpg",Glee Castellano
+https://raw.githubusercontent.com/GODN9/AQUI-PUEDEN-SUS-LISTAS/main/Glee.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXNfW4p/glee.jpg",Glee Latino
+https://raw.githubusercontent.com/GODN9/AQUI-PUEDEN-SUS-LISTAS/main/GleeLati.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/poster-oh-my/go.jpg",Goblin
+https://dl.dropbox.com/s/fiypleyur3g95t8/Gobl1n.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1rS4zxk/73762-44.jpg",Grey's Anatomy
+https://dl.dropbox.com/s/f0izn2c3dta67q5/GreysAnatomy.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NFzx0nd/Image56.jpg",Hijos de la Anarquia
+https://dl.dropbox.com/s/29rvext2o1lglos/hijos%20de%20la%20anarquia.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DtngPv3/Image86.jpg",Historia de un crimen: La Busqueda
+https://dl.dropbox.com/s/afew3c301whu2zf/busqueda1.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/75760/tvthumb/H_75760%20(3).jpg",How I Meet Your Mother 
+https://dl.dropbox.com/s/uoowu3o91s3frwc/HYMYMarchive.m3u
+
+#EXTINF:-1 tvg-logo="https://as.com/meristation/imagenes/2021/04/30/noticias/1619778037_397340_1619778069_noticia_normal_recorte1.jpg",Invencible
+https://dl.dropbox.com/s/klhibofj6ughvnw/Invincible.m3u
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-hWzTVmEo1Sw/USwkDHfAVyI/AAAAAAAADro/Mtsu9sqwW1c/s1600/jiban+Poster.jpg",Jiban (1989)
-https://dl.dropbox.com/s/qt0iq2jjihhimw0/JIB4N.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/121361/tvthumb/game-of-thrones-4f9dc3fdbee06.jpg",Juego de Tronos (2011)
-https://dl.dropbox.com/s/qslg9bl9grht8d7/game%20of%20tron.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/121361/tvthumb/game-of-thrones-4f9dc3fdbee06.jpg",Juego de Tronos (2011)
-http://archive.org/download/listasaqui_ymail4_Alf/game%20of%20tron.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/74392/tvthumb/kenan--kel-56ae32c546eb0.jpg",Kenan y Kel (1996)
-https://dl.dropbox.com/s/bd63gzdld9uvkao/kenan%20y%20Kel.m3u
-#EXTINF:-1 tvg-logo="https://elmexicanorm.blob.core.windows.net.optimalcdn.com/images/2020/03/17/lacasadelasfloresbanner-focus-0-0-690-347.png",La Casa de las Flores (2018)
-http://archive.org/download/kuhlman_1/Series/series/Casa de flores.m3u
-#EXTINF:-1 tvg-id="1" tvg-name="Peliculas" tvg-logo="https://fanart.tv/fanart/tv/327417/hdclearart/money-heist-5bbbd1be63595.png",La Casa De Papel (2017)
-https://dl.dropbox.com/s/sjwd6y3a8qaf6d1/la%20casa%20de%20papel%20%281%29.m3u
-#EXTINF:-1 tvg-logo="https://blog.convoynetwork.com/wp-content/uploads/2019/03/law-order-special-victims-unit-wallpapers-31605-8618436-920x518.jpg",La Ley y El Orden UVE (1999)
-https://dl.dropbox.com/s/uago7tax09drki4/LYO%20temp1.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/75675/seasonthumb/T_75675.jpg",La Nana (1993)
-https://dl.dropbox.com/s/95new08thm06lfq/LANI%C3%91ERA.M3U
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/77960/tvthumb/A_77960.jpg",Le temes a la oscuridad? (1990)
-https://dl.dropbox.com/s/c4e6h5zkoq80ihq/Letemesalaoscuridad.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/352043/backgrounds/5f9784aac2938.jpg",Liveman
+https://dl.dropbox.com/s/h54bkv5ycyf1j2c/JIB4N.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/383321/backgrounds/60b20c16c1449_t.jpg",Katla (2021)
+https://dl.dropbox.com/s/afjsh5xs5ms55q7/Katla.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdMyr7W/Image67.jpg",Killing Eve
+https://dl.dropbox.com/s/b9my100w6zk9vjx/KillingEve.M3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJhsdW4/Image68.jpg",Knightfall
+https://dl.dropbox.com/s/2eq2uk526gi90x1/Knightfall.M3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2M7ztd/Image69.jpg",Krypton
+https://dl.dropbox.com/s/pzch49397bkt9wt/Krypton.M3U
+
+#EXTINF:-1 tvg-logo="https://elmexicanorm.blob.core.windows.net.optimalcdn.com/images/2020/03/17/lacasadelasfloresbanner-focus-0-0-690-347.png",La Casa de las Flores
+https://dl.dropbox.com/s/anxqz4utfvv0vsp/Casa%20de%20flores.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M23t0St/Image64.jpg",La Casa de los Dibujos
+https://dl.dropbox.com/s/xwa609zrsds8yo4/LA%20CASA%20DE%20LOS%20DIBUJOS.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/pipipi_202106/lani.png",La Nana (1993)
+https://dl.dropbox.com/s/a7ool5vjkknfpyf/LANI%C3%91ERA.M3U
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1tlu0B-AiY8/maxresdefault.jpg",Liveman jap (1988)
+https://dl.dropbox.com/s/8qw85a9brkmamq4/LIVEMAN.M3U
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/352043/backgrounds/5f9784aac2938.jpg",Liveman Lat (1988)
 https://dl.dropbox.com/s/xxxfjxbareqj0iq/liveman%20Latino.m3u
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1tlu0B-AiY8/maxresdefault.jpg",Liveman (1988)
-https://dl.dropbox.com/s/2r7nqgwlxvclunr/LIVEMAN.M3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/02CzsFC/hechiceros.jpg",Los Hechiceros de Waverly Place (2007)
-https://dl.dropbox.com/s/21eiycf9rn5tmfs/HWP.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/neu00m0u548gfuf/ingals.jpg",Los Ingalls (1974)
-https://dl.dropbox.com/s/szraa8joqyqd9s1/ingals.m3u
-#EXTINF:-1 tvg-id="1" tvg-name="Peliculas" tvg-logo="https://morningstaronline.co.uk/sites/default/files/styles/article_full/public/Thieves-of-the-wood-sx-2932x2932.jpg?itok=6zCre7NG&c=a846cd0a6a5207fb61d28c78d4666702",Los ladrones del Bosque (2020)
-https://dl.dropbox.com/s/azm5rt6sieg6sou/los%20ladrones%20del%20bosque.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/71663/tvthumb/the-simpsons-516e91f89377e.jpg",Los Simpson (1989)
-https://dl.dropbox.com/s/0dcuncf23ktl2if/los%20simpson.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HN16SHd/Image57.jpg",Lo siento te amo
+https://dl.dropbox.com/s/9qidq6h4j4fm3ld/lo%20siento%20te%20amo.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqbmxPd/LOKI.jpg",Loki (2021)
+https://dl.dropbox.com/s/9nqktca7z9hq24j/LOKI%20PS3.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qpF78GW/81.jpg",Lugares Muertos
+https://dl.dropbox.com/s/bfzyejppezmf0ww/Lugares%20Muertos.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XY2jGcZ/Image58.jpg",Macross Plus
+https://dl.dropbox.com/s/75vyyjui4rwe3fd/Macross%20Plus.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHh74ck/Image59.jpg",Mi amada Eun Dong
+https://dl.dropbox.com/s/8felep1nsflccq6/my%20love%20eu%20dong.m3u
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZT5tmxK/Image131.jpg",Mr.Robot (2015)
 https://dl.dropbox.com/s/pgdag6et0w6n4et/Mr%20Robot.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/73838/tvthumb/malcolm-in-the-middle-5c7575da6fbbb.jpg",Malcolm el de Enmedio (2000)
-http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/79821/showbackground/neds-declassified-school-survival-guide-53965375c5420.jpg",Manual De Supervivencia Escolar De Ned (2004)
-https://dl.dropbox.com/s/bqb4czr5wnhf5xj/Manual%20de%20ned.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/327325/backgrounds/5ee5217b8e195_t.jpg",Mejores Que Nosotros (2020)
-https://dl.dropbox.com/s/ibngdozru2dr3lr/mejores%20que%20nosotros.m3u
-#EXTINF:-1 tvg-logo="https://www.tvnotas.com.mx/sites/default/files/styles/imagenprincipal_1024x576/public/articulos/2020/01/22/tvn-22012020175504.jpg?itok=F0eCifUN",Nosotros los guapos (2016)
-http://archive.org/download/kuhlman_1/Series/series/Nosotros Los Guapos.m3u
-#EXTINF:-1 tvg-logo="https://archive.org/download/okupas_202004/okupas.jpg",Okupas (2000)
-https://dl.dropbox.com/s/f2dgsk4rqz4orsd/0kupas.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gwX3j7J/cover-Oscuro-Deseo.jpg",Oscuro deseo (2020)
-https://dl.dropbox.com/s/xtphjlmadxkmy4d/OSCURO%20DESEO.M3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gowOGRbHNJ9DjpTOb1n7TgS84Hy.jpg",Penny Dreadful: City of Angels (2020)
-https://dl.dropbox.com/s/78nz1c5c88wary0/Penny-Dreadful.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/364870/backgrounds/5f5908e35e503.jpg",Ratched (2020)
-https://dl.dropbox.com/s/3bi1bxvh7hrqhz4/Ratched.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8yiizvzv85asu2g/rick%20and%20morty.jpg",Rick y Morty (2013)
-https://dl.dropbox.com/s/fsl2vurw44usa7k/R%26M%20T1.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/311954/tvthumb/riverdale-5dc09f4b3ead6.jpg",Riverdale (2017)
-https://dl.dropbox.com/s/8odxnrwxphut67m/riverdale.m3u
-#EXTINF:-1 tvg-logo="https://archive.org/download/poster-robo/poster%20robo.png",RoboCop: Prime Directives (2001)
-https://dl.dropbox.com/s/1fgy2etbhhudwby/Robocop-Prime-Directives.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/75734/tvthumb/robot-chicken-5a429e700dba1.jpg",Robot Chicken (2005)
-https://dl.dropbox.com/s/aohg7of2ih94otf/CHICK3NROBOT.M3U
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76876/tvthumb/sabrina-the-teenage-witch-5c0660a67362b.jpg",Sabrina La Bruja Adolescente (1996)
-https://dl.dropbox.com/s/zfpr0da5t19htyq/sabrina.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CsFY5JQ/cover01-jpg.png",Scorpion
-https://dl.dropbox.com/s/0jt3tkyqm5oppg3/Scorpion00.m3u
-#EXTINF:-1 tvg-name="Peliculas" tvg-logo="https://fanart.tv/fanart/tv/368126/tvthumb/servant-5d853a8896c2a.jpg",Servant (2019)
-https://dl.dropbox.com/s/mfgmm6pfsspotpz/Servant.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72218/tvthumb/smallville-5d8077bf129ae.jpg",Smallville (Superman) 2001
-http://archive.org/download/kuhlman_1/Series/series/Smallville Superman.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/75897/tvthumb/south-park-4fb71c384c516.jpg",South Park (1997)
-https://dl.dropbox.com/s/vrsq20focnz6o46/SP.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RHqtm9/180511-1-PS3-Ultimate-Landscape.jpg",Soy Tu Fan (2010)
-https://dl.dropbox.com/s/sn3wqweiueplvqq/Soy%20tu%20Fan.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/368667/backgrounds/5e9895900b309.jpg",Space Force (2020)
-https://dl.dropbox.com/s/a64fd0u564xv0lw/spaceforce.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pv14xgh1h6ftkcv/star%20wars.jpg",star wars clon wars
-https://dl.dropbox.com/s/midoiysni7vg5su/starwars%20de%20clon%20wars.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/305288/tvthumb/stranger-things-5a62665fea007.jpg",Stranger Things (2016)
-https://dl.dropbox.com/s/6bqlfh2sqkrsrgp/stranger%20things.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7gRvLvHH78YAdchOghNpH2EysJ2.jpg",Suits (2011)
-https://dl.dropbox.com/s/v5is65gfb8qd12i/SUITS.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/375655/backgrounds/6022f82689a4c_t.jpg",Superman & Lois
-https://dl.dropbox.com/s/v5kqmal9lp1yqn7/Superman%20y%20Lois.m3u
-#EXTINF:-1 tvg-logo="https://reskk-my.sharepoint.com/:i:/g/personal/ps3uuno_f_odpan_cn/EYIEOG-bcNVAs2ai78m26g4BQ-PdHlf2OCw6uaDE_WJALA?download=1",Tehran (2020) 
-https://dl.dropbox.com/s/6mf9jcjjcgue16v/Tehran%20%282020%29.M3U
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/80379/tvthumb/the-big-bang-theory-4f00d72c1c50b.jpg",The Big Bang Theory (2007)
-http://archive.org/download/kuhlman_1/Series/series/La%20teoria%20del%20big%20bang.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dLJKrKD/the-boys-1-Personalizado.jpg",THE BOYS.
-https://dl.dropbox.com/s/5hyybvt349unhnk/THE%20BOYS%20PS3.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/269533-9.jpg",The Last Ship (2014)
-https://dl.dropbox.com/s/fggw54k47yc5doo/LastShip.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6nHFh4L/cover-Mandalorian.jpg",The Mandalorian (2019)
-https://dl.dropbox.com/s/jn8sx6y1p2sq8dg/THE%20MANDALORIAN.M3U
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/73244/tvthumb/the-office-us-5db2eb3f93590.jpg",The Office (2005)
-https://dl.dropbox.com/s/6e874vxzkg2we2s/theoffice.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/365480/backgrounds/62038011.jpg",The Outsider (2020)
-https://dl.dropbox.com/s/t98r9sfsix1lzv8/TheOutsider.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/326866-9.jpg",The Sinner (2017)
-https://dl.dropbox.com/s/vh79tb2scbjcdus/sinner.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/353764/tvthumb/the-umbrella-academy-5c66b193ba7f6.jpg",The Umbrella Academy (2019)
-http://archive.org/download/listasaqui_ymail4_Alf/The%20Umbrella%20Academy.m3u
-#EXTINF:-1 tvg-logo="https://reskk-my.sharepoint.com/:i:/g/personal/ps3uuno_f_odpan_cn/ET0MkQMUn3FEuakvWgkjGxABPfeJm8o0GHdIP8s_JjFYlg?download=1",The Undoing (2020)
-https://dl.dropbox.com/s/4fg04l4aqdad731/The%20Undoing%20%282020%29.M3U
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/153021/tvthumb/T_153021.jpg",The Walking Dead (2010)
-https://dl.dropbox.com/s/510qgq2kszl83lp/walkingdead.m3u 
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/362696/tvthumb/the-witcher-5d3339ee443f6.jpg",The Witcher (2019)
-https://dl.dropbox.com/s/s5vs5205bh09lgk/WICHERT435456575686.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/380612/backgrounds/5ee8f2ef95496.jpg",The Woods (2020)
-https://dl.dropbox.com/s/xbg0upn61d2c5ef/Woods.m3u
-#EXTINF:-1 tvg-logo="https://qph.fs.quoracdn.net/main-qimg-6643b47c16bd727a9ad87c669db65477",Typewriter (2019)
-https://dl.dropbox.com/s/fiqplvchrcdh88a/Typewriter.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/150051/tvthumb/U_150051.jpg",Ugly Americans (2010)
-https://dl.dropbox.com/s/ctpqvxu57xup29i/Ugly%20Americans.m3u
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/5c960338354cf.jpg",Umbrella Academy (2019)
-https://dl.dropbox.com/s/ryhq2s6h8qfs52w/umbrela.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/fkesatxf4hkcmzy/vikingos.jpeg",vikingos
-https://dl.dropbox.com/s/qmz24klwrfuudkr/VIKINGOS%20T1.m3u
-#EXTINF:-1 tvg-logo="https://archive.org/download/poster-vikingos/poster%20vikingos.png",Vikingos (2013)
-https://dl.dropbox.com/s/mfiz61m5k09s3qg/Vikingos.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KFs1y7Q/Image44.jpg",WandaVision (2021)
-https://dl.dropbox.com/s/8mk6njzbbjo6dk0/WandaVision.m3u
-#EXTINF:1, tvg-logo="https://dl.dropbox.com/s/k8rm732mf3d9hz4/falconwinter%20and%20soldier.jpg",Falcon y el Soldado Del Invierno (480p)
-https://dl.dropbox.com/s/bhjuwj550fil13b/the%20falcon%20and%20the%20winter%20soldier.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ac0ma689od2fqfw/2-hombres-y-medio.jpg",Dos Hombres y Medio (480p)
-https://dl.dropbox.com/s/hv00pvps095k0eu/2%20Hombres%20y%20Medio.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z88o8qn6nfpiuli/family%20guy.jpg",Family Guy (480p)
-https://dl.dropbox.com/s/gbda1crzzw2nfpx/family%20guy.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cvnnjeifm2tq3bm/4233147.jpg",Flash (480p)
-https://dl.dropbox.com/s/5utmskmrioyqg6j/flash.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/t5b1oz0yfhrq2i9/pic.jpg",Los Expedientes Secretos X (480p)
-https://dl.dropbox.com/s/yptw7vvashircj3/x%20files.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/utjohyglw6uix9g/The_Mandalorian_Serie_de_TV-526462730-large.jpg",Mandalorian (480p)
-https://dl.dropbox.com/s/3pyhmg7togernot/mandalorian.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KFs1y7Q/Image44.jpg",WandaVision (480p)
-https://dl.dropbox.com/s/0238yxflau9uwll/wandavision.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/poster-oh-my/poster%20oh%20my.png",Oh My Ghostess
+https://dl.dropbox.com/s/5ypofo58hy9w4o2/O4MYG4OSTESS.M3U
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/okupas_202004/okupas.jpg",Okupas
+https://dl.dropbox.com/s/rrkm1apcegmw10l/0kupas.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwpN134/PORT.jpg",Orange Is The New Black
+https://dl.dropbox.com/s/ymqqldchh81356w/Orange%20Is%20The%20New%20Black.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xjng1VG/portada.jpg",Pose (2018)
+https://dl.dropbox.com/s/1u4sffrsanmaqzs/POSE.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z4f8vzx/Image97.png",Power Rangers: Fuerza Salvaje
+https://dl.dropbox.com/s/3xfzgfme0be3azl/POWERFUSAL.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Csbg2zm/Image98.jpg",Quien mato a Maria Marta
+https://dl.dropbox.com/s/rkqxq9gmuenike0/Quien%20mato%20a%20Maria%20Marta%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5x461Mf/Image99.jpg",Raised by Wolves
+https://dl.dropbox.com/s/ril3pxz6468d8lj/Raised%20by%20Wolves%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/364870/backgrounds/5f5908e35e503.jpg",Ratched
+https://dl.dropbox.com/s/gr5fg8v4mnj8sm8/Ratched.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/reb_20210629/reb.png",Rebelde Way
+https://dl.dropbox.com/s/jmvy6deinf4elcd/REB3LDE.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/311954/tvthumb/riverdale-5dc09f4b3ead6.jpg",Riverdale
+https://dl.dropbox.com/s/bkl6o9t2ycl1svq/riverdale.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/poster-robo/poster%20robo.png",Robocop: Prime Directives
+https://dl.dropbox.com/s/jiercb8v3lbzon0/Robocop-Prime-Directives.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rpyR9hs/Image89.jpg",Robot Chicken
+https://dl.dropbox.com/s/y3k4pxrmsp4a83b/CHICK3NROBOT.M3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sFKkNrt/Image100.jpg",Rubi
+https://dl.dropbox.com/s/go34d4mmc11fzqz/Rubi%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76876/tvthumb/sabrina-the-teenage-witch-5c0660a67362b.jpg",Sabrina: La bruja adolescente
+https://dl.dropbox.com/s/fvlikrcve9nm1z2/sabrina.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FBPHSxF/Image101.jpg",Sangre de Zeus
+https://dl.dropbox.com/s/fkkmzd6kns9dqkz/SANGRE%20DE%20ZEUS.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Brn4QTk/Image102.jpg",Seduced: Inside the nxivm cult
+https://dl.dropbox.com/s/qxhns00ji0wlfni/Seduced_%20Inside%20the%20NXIVM%20Cult%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BscS5Gj/Image103.jpg",See
+https://dl.dropbox.com/s/xnhtplc7x8gpgu4/SEE-Temp1.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/07_20210312/0000000PPP.png",Seinfeld
+https://dl.dropbox.com/s/67fq1jd9jpo57tw/s3infeld.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnbhfRP/Image104.jpg",Selena
+https://dl.dropbox.com/s/jgkfjvh2am3i55z/SELENA%20LA%20SERIE.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/368126/tvthumb/servant-5d853a8896c2a.jpg",Servant
+https://dl.dropbox.com/s/xh606btjz8h43f5/Servant.m3u
+
+#EXTINF:-1,Smallville (Superman) 2001
+https://dl.dropbox.com/s/ma09c5wwkbtekws/Smallville%20Superman.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/75897/tvthumb/south-park-4fb71c384c516.jpg",South Park
+https://dl.dropbox.com/s/54y2sqztlwz44ew/SP.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJC58tn/Image105.png",Space Force
+https://dl.dropbox.com/s/kri88n1d06d1oh7/spaceforce.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7ZvM0q/Image106.jpg",Spartacus
+https://dl.dropbox.com/s/a2pnzqg7k8bmujo/Spartacus.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyvXyYY/Image70.jpg",Station 19
+https://dl.dropbox.com/s/v46ymrtt582jre3/Station19.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyvXyYY/Image70.jpg",Station 19
+https://dl.dropbox.com/s/8fvcamgdbtp98va/Station19.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/305288/tvthumb/stranger-things-5a62665fea007.jpg",Stranger Things
+https://dl.dropbox.com/s/to3h4771dgyc2do/stranger%20things.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNL5PMt/Image107.jpg",Suits
+https://dl.dropbox.com/s/rhepjlj60br76gq/SUITS.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jw99CXC/Image108.jpg",Sweet Home
+https://dl.dropbox.com/s/1l1gfemstjm5aak/SWEETHOME.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5sT5ZCc/Image109.jpg",Tehran
+https://dl.dropbox.com/s/74umjz9jlu0pt9a/Tehran%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJ51qNj/Image110.png",Territorio Lovecraft
+https://dl.dropbox.com/s/q6cndhbq8mu1u6u/Territorio%20Lovecraft%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WG6vz1/Image111.jpg",The Expecting
+https://dl.dropbox.com/s/t1x2zu5doyh0mdi/The%20Expecting%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qmkHgp6/Image112.png",The Flight Attendant
+https://dl.dropbox.com/s/yfvswlbaetbbbxu/THE%20FLIGHT%20ATTENDANT.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/269533-9.jpg",The Last Ship
+https://dl.dropbox.com/s/fazxf61ip7hglhs/LastShip.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7pf5Ds1/Image113.jpg",The Liberator
+https://dl.dropbox.com/s/rgd06ai8lfv1v8l/The%20Liberator%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6nHFh4L/cover-Mandalorian.jpg",The Mandalorian
+https://dl.dropbox.com/s/8y8mwi2l6jnqg9x/THE%20MANDALORIAN.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/73244/tvthumb/the-office-us-5db2eb3f93590.jpg",The Office
+https://dl.dropbox.com/s/1z964tkkri79vxl/theoffice.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/365480/backgrounds/62038011.jpg",The Outsider
+https://dl.dropbox.com/s/5391bemtvh9x59v/TheOutsider.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQns2ff/Image38.jpg",The Punisher (2017)
+https://dl.dropbox.com/s/g9a24fzvnbx0sho/The%20Punisher.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/326866-9.jpg",The Sinner
+https://dl.dropbox.com/s/neevif5frneohfe/sinner.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3Z1dJ/Image114.jpg",The Spanish Princess
+https://dl.dropbox.com/s/mppw739t6i6n634/THE%20SPANISH%20PRINCESS.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b28TZN7/Image71.jpg",The Stand
+https://dl.dropbox.com/s/lulllt8padk7wgu/TheStand.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FBD4n9B/Image117.jpg",The Terror
+https://dl.dropbox.com/s/dxir5mavghfkt0f/TheTerror.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLb1WzM/Image115.jpg",The Twilight Zone
+https://dl.dropbox.com/s/9wrfk4pbopax0y0/The%20Twilight%20Zone%20%282019%29.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/353764/tvthumb/the-umbrella-academy-5c66b193ba7f6.jpg",The Umbrella Academy
+https://dl.dropbox.com/s/k1h30p9vzegbb66/The%20Umbrella%20Academy.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmHf3rf/Image116.jpg",The Undoing
+https://dl.dropbox.com/s/x6v00ywpr9whuci/The%20Undoing%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/153021/tvthumb/T_153021.jpg",The Walking Dead
+https://dl.dropbox.com/s/jai8s335h0y5fo0/walkingdead.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9XG2Hv/Image72.jpg",The Walking Dead: World Beyond
+https://dl.dropbox.com/s/wew1zw88dofudnh/TWD-WorldBeyond.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9XG2Hv/Image72.jpg",The Walking Dead: World Beyond
+https://dl.dropbox.com/s/ynj5aij1cvwyhl7/WorldBeyond.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9XG2Hv/Image72.jpg",The Walking Dead: World Beyond
+https://dl.dropbox.com/s/wqx2z1avnh7k8z0/THE%20WALKING%20DEAD%20WORLD%20BEYOND.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/362696/tvthumb/the-witcher-5d3339ee443f6.jpg",The Witcher
+https://dl.dropbox.com/s/nbe0p07tqq86xrs/WICHERT435456575686.m3u
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/380612/backgrounds/5ee8f2ef95496.jpg",The Woods
+https://dl.dropbox.com/s/1h279t7708u6pnr/Woods.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svMf8xj/Image118.jpg",Titanes
+https://dl.dropbox.com/s/aggjf1nuyu44sdr/titanes.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1Yyr11/Image119.jpg",Truth Seekers
+https://dl.dropbox.com/s/uj7f7qxuhgncltu/Truth%20Seekers%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://qph.fs.quoracdn.net/main-qimg-6643b47c16bd727a9ad87c669db65477",Typewriter
+https://dl.dropbox.com/s/l56rt6e3t2w007f/Typewriter.m3u
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/150051/tvthumb/U_150051.jpg",Ugly Americans
+https://dl.dropbox.com/s/du68m34p4mlv2ku/Ugly%20Americans.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J23fD7t/Image61.jpg",Un litro de Lagrimas
+https://dl.dropbox.com/s/kjtukclwzo8dfy5/un%20litro%20de%20lagrimas.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4KpqJW1/Image43.jpg",Under the Dome
+https://dl.dropbox.com/s/gytet8sylepwcl3/UNDER%20THE%20DOME.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0BNqTCR/Image120.jpg",Utopia
+https://dl.dropbox.com/s/ids3uljnjpdaaj0/Utopia%20%282020%29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cFfn9Tj/Image62.jpg",Virtual Hero
+https://dl.dropbox.com/s/q84k1ydq9xdk2jk/virtual%20hero.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dky9QKw/Image121.jpg",Visita de Navidad
+https://dl.dropbox.com/s/f33wiwpy0028ore/VISITA%20DE%20NAVIDAD.m3u
+
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5feaf92a610ba5db8e9425d5/master/pass/wandavision.jpg",Wanda Vision
+https://dl.dropbox.com/s/ini6bzvnsw5r732/WandaVision.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMTsBd0/Image122.jpg",Warrior
+https://dl.dropbox.com/s/xdhfqk842zvw58l/WARRIOR.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xp25TJq/Image123.jpg",Westworld
+https://dl.dropbox.com/s/zk8hogbv0eskoc1/Westworld.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/80C4Z8N/Image124.jpg",Wireless
+https://dl.dropbox.com/s/max44ni5m2nyy6y/WIRELESS.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prHNjPv/Image125.jpg",You
+https://dl.dropbox.com/s/3n1f8ytt58x7vpa/YOU.m3u
